@@ -130,6 +130,6 @@ STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static_dev'),
 )
 
-CRISPY_TEMPLATE_PACK = 'bootstrap4'
+# CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 
